@@ -15,7 +15,7 @@ Please self assess with the rubric below. Provide additional information to expl
 ### Specification Adherence
 
 ### 4: Application implements all functionality as defined, with no bugs, and one extension (if you choose to put your point here)
- - We covered all the functionality and used ES6 most of the time.
+ -- We covered all the functionality and used ES6 most of the time.
  
 - 3: Application implements all functionality as defined, but some bugs or strange behavior where features intersect
 - 2: Application is missing required functionality, deviates significantly from the spec, or serious bugs prevent features from being usable
