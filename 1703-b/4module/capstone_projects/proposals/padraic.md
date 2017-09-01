@@ -1,27 +1,29 @@
 ### Project Template
 
-### [Project Title]
+### A Foray into Machine Learning with TensorFlow
 
 ### Pitch
 
-1 sentence that explains the value proposition of the application. How would you explain it to a potential business partner, team member, or investor?
+The bar of entry into Machine Learning (ML) is high, which is why this project is worthwhile in that it will demonstrate the path a software developer can take in order to use ML algorithms in a web app.
 
 ### Problem
 
-1-3 sentences describing the problem that you are trying to solve.
+Too many people are fully employed in, or spend too much time doing, repetitive, menial tasks. Machine Learning offers automation of these tasks so that humanity can engage in more challenging, provocative, and socially beneficial pursuits.
 
 ### Solution
 
-1-3 sentences describing how your application will solve that problem.
+This application will demonstrate how ML classifiers (identifying objects as part of a particular class) can be used in innovative and novel ways (hopefully).
 
 ### Target Audience
 
-1-3 sentences describing what type of user your app would be applicable to.
+The final app is as yet undecided, so I don't have a target audience.
 
 ### New Techniques
 
 Which new techniques are you hoping to implement?
 
+This project will require the use of Python 3, TensorFlow, and various Machine Learning techniques and algorithms.
+
 ### Workflow
 
-What project management tool will you be using to manage your progress?
+Pivotal Tracker fo sho.
