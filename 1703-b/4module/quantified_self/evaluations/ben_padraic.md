@@ -2,9 +2,9 @@
 
 Frontend Production: https://benjaminpjacobs.github.io/quantified-self-client/
 
-Frontend Github:https://github.com/Benjaminpjacobs/quantified-self-client
+Frontend Github: https://github.com/Benjaminpjacobs/quantified-self-client
 
-Backend Production:
+Backend Production: https://quantified-self-express-api.herokuapp.com/
 
 Backend Github: https://github.com/Benjaminpjacobs/quantified-self-express-api
 
